@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning ...
 <!--
 **babayl0729/babayl0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
